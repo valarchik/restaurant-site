@@ -1,0 +1,10 @@
+@import "reset.css";
+
+body {
+  background: #C4C4C4;
+  color: #ffeee7; }
+  body h1 {
+    width: fit-content;
+    margin: 0 auto; }
+
+/*# sourceMappingURL=main.css.map */
